@@ -1,5 +1,7 @@
 # Omelette Recipe Page
 
+![design-image](./assets/design/Screenshot.png)
+
 Omelette Recipe Page using Flutter.
 
 It is a challenge from [FrontEnd Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
